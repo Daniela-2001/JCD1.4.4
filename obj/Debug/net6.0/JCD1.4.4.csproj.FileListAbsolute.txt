@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\bin\Debug\net6.0\JCD1.4.4.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\bin\Debug\net6.0\JCD1.4.4.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\bin\Debug\net6.0\JCD1.4.4.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\bin\Debug\net6.0\JCD1.4.4.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\bin\Debug\net6.0\JCD1.4.4.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\JCD1.4.4.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\JCD1.4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\JCD1.4.4.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\JCD1.4.4.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\JCD1.4.4.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\JCD1.4.4.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\refint\JCD1.4.4.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\JCD1.4.4.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\JCD1.4.4.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Code I\Exercises\Solutions\1.4 Methods\JCD1.4.4\obj\Debug\net6.0\ref\JCD1.4.4.dll
